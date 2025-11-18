@@ -5,7 +5,11 @@ This repository hosts the full technical documentation for the **Reg-Sense AI Co
 Our service ensures data integrity and adherence to global regulatory standards (e.g., ICD-10, PII standards) before final submission to agencies like the FDA or EMA.
 
 ---
+## 🗺️ Documentation Map
 
+For a comprehensive overview and direct links to all technical and regulatory guides, see the [Table of Contents (TOC)](TOC.md).
+
+---
 ## 🚀 Getting Started
 
 Follow these steps to quickly integrate and begin using the Reg-Sense AI API.
